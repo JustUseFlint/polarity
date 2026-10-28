@@ -1,0 +1,198 @@
+[
+ {
+  "id": "us-presidents",
+  "title": "US presidents",
+  "blurb": "Presidents from Jefferson to Biden, scored on the same 24 questions.",
+  "figures": [
+   "thomas-jefferson",
+   "abraham-lincoln",
+   "theodore-roosevelt",
+   "franklin-d-roosevelt",
+   "john-f-kennedy",
+   "lyndon-b-johnson",
+   "richard-nixon",
+   "ronald-reagan",
+   "bill-clinton",
+   "george-w-bush",
+   "barack-obama",
+   "donald-trump",
+   "joe-biden"
+  ]
+ },
+ {
+  "id": "us-politics-today",
+  "title": "US politics today",
+  "blurb": "Current and recent US figures from both parties.",
+  "figures": [
+   "donald-trump",
+   "joe-biden",
+   "kamala-harris",
+   "barack-obama",
+   "bernie-sanders",
+   "alexandria-ocasio-cortez",
+   "nancy-pelosi",
+   "mitch-mcconnell",
+   "ron-desantis",
+   "ted-cruz",
+   "rand-paul",
+   "mike-pence"
+  ]
+ },
+ {
+  "id": "world-leaders",
+  "title": "World leaders",
+  "blurb": "Leaders and party chiefs from Europe, Asia, the Americas and the Middle East.",
+  "figures": [
+   "angela-merkel",
+   "emmanuel-macron",
+   "giorgia-meloni",
+   "boris-johnson",
+   "jeremy-corbyn",
+   "nigel-farage",
+   "justin-trudeau",
+   "jacinda-ardern",
+   "javier-milei",
+   "luiz-inacio-lula-da-silva",
+   "jair-bolsonaro",
+   "narendra-modi",
+   "xi-jinping",
+   "vladimir-putin",
+   "viktor-orban",
+   "recep-tayyip-erdogan",
+   "volodymyr-zelenskyy",
+   "benjamin-netanyahu"
+  ]
+ },
+ {
+  "id": "twentieth-century-leaders",
+  "title": "20th-century leaders",
+  "blurb": "Statesmen and movement leaders who shaped the 1900s.",
+  "figures": [
+   "winston-churchill",
+   "franklin-d-roosevelt",
+   "vladimir-lenin",
+   "joseph-stalin",
+   "adolf-hitler",
+   "mao-zedong",
+   "mahatma-gandhi",
+   "charles-de-gaulle",
+   "mustafa-kemal-ataturk",
+   "deng-xiaoping",
+   "lee-kuan-yew",
+   "margaret-thatcher",
+   "ronald-reagan",
+   "nelson-mandela",
+   "martin-luther-king-jr"
+  ]
+ },
+ {
+  "id": "founders-and-nation-builders",
+  "title": "Founders & nation-builders",
+  "blurb": "People who founded states or rebuilt them.",
+  "figures": [
+   "thomas-jefferson",
+   "alexander-hamilton",
+   "abraham-lincoln",
+   "napoleon-bonaparte",
+   "mustafa-kemal-ataturk",
+   "mahatma-gandhi",
+   "nelson-mandela",
+   "lee-kuan-yew",
+   "deng-xiaoping",
+   "charles-de-gaulle",
+   "elizabeth-i",
+   "cleopatra"
+  ]
+ },
+ {
+  "id": "philosophers-and-thinkers",
+  "title": "Philosophers & thinkers",
+  "blurb": "Writers and economists whose ideas shaped political debate.",
+  "figures": [
+   "john-locke",
+   "confucius",
+   "karl-marx",
+   "john-maynard-keynes",
+   "friedrich-hayek",
+   "ayn-rand",
+   "milton-friedman",
+   "noam-chomsky",
+   "thomas-sowell",
+   "paul-krugman"
+  ]
+ },
+ {
+  "id": "public-voices",
+  "title": "Public voices",
+  "blurb": "Entrepreneurs, commentators and activists with a public record on policy.",
+  "figures": [
+   "elon-musk",
+   "bill-gates",
+   "warren-buffett",
+   "greta-thunberg",
+   "joe-rogan",
+   "ben-shapiro",
+   "noam-chomsky",
+   "milton-friedman",
+   "paul-krugman",
+   "thomas-sowell"
+  ]
+ },
+ {
+  "id": "fictional-villains-and-tyrants",
+  "title": "Villains & tyrants",
+  "blurb": "Fictional rulers and antagonists, scored on in-universe canon.",
+  "figures": [
+   "darth-vader",
+   "emperor-palpatine",
+   "thanos",
+   "sauron",
+   "lord-voldemort",
+   "glados",
+   "handsome-jack",
+   "big-brother",
+   "coriolanus-snow",
+   "tywin-lannister",
+   "fire-lord-ozai",
+   "the-joker",
+   "frank-underwood",
+   "mr-burns"
+  ]
+ },
+ {
+  "id": "heroes-and-rebels",
+  "title": "Heroes & rebels",
+  "blurb": "Fictional heroes and resistance figures, scored on in-universe canon.",
+  "figures": [
+   "luke-skywalker",
+   "leia-organa",
+   "batman",
+   "superman",
+   "captain-america",
+   "tony-stark",
+   "t-challa",
+   "gandalf",
+   "albus-dumbledore",
+   "jean-luc-picard",
+   "spock",
+   "daenerys-targaryen"
+  ]
+ },
+ {
+  "id": "fantasy-and-sci-fi-rulers",
+  "title": "Fantasy & sci-fi rulers",
+  "blurb": "Kings, queens, emperors and dark lords across invented worlds.",
+  "figures": [
+   "emperor-palpatine",
+   "sauron",
+   "daenerys-targaryen",
+   "tywin-lannister",
+   "fire-lord-ozai",
+   "t-challa",
+   "coriolanus-snow",
+   "albus-dumbledore",
+   "big-brother",
+   "handsome-jack"
+  ]
+ }
+]

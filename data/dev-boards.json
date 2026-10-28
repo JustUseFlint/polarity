@@ -1,0 +1,26 @@
+[
+ {
+  "id": "dev-cast",
+  "title": "The invented cast",
+  "description": "Seven made-up figures used as stand-in data.",
+  "figures": [
+   "dev-quill",
+   "dev-brandt",
+   "dev-vale",
+   "dev-thorne",
+   "dev-isolde",
+   "dev-arlow",
+   "dev-rook"
+  ]
+ },
+ {
+  "id": "dev-fiction",
+  "title": "Invented fiction",
+  "description": "Made-up game, novel and cyberpunk characters.",
+  "figures": [
+   "dev-thorne",
+   "dev-isolde",
+   "dev-rook"
+  ]
+ }
+]

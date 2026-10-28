@@ -1,0 +1,31 @@
+{
+  "method": "Each question is scored -2..+2 from the public record (votes, official actions, laws signed, platforms, direct quotes, credible analysis; in-universe canon for fiction). null = no good evidence. Economic: -2 = state-led, +2 = market-led. Social: -2 = libertarian, +2 = authoritarian. Same questions and rules for everyone.",
+  "econ": [
+    {"id":"e1","text":"Who should primarily organize and pay for healthcare?","left":"Government-run universal system","right":"Private market, minimal government"},
+    {"id":"e2","text":"How should the tax burden on the highest earners compare with everyone else's?","left":"Much higher rates on top earners","right":"Low or flat rates for all"},
+    {"id":"e3","text":"How much should government regulate business and industry?","left":"Extensive regulation","right":"Minimal regulation"},
+    {"id":"e4","text":"How should a country handle international trade?","left":"Managed trade: tariffs and state direction","right":"Free trade, few barriers"},
+    {"id":"e5","text":"What role should labor unions and collective bargaining have?","left":"Strengthen unions and bargaining rights","right":"Limit union power; individual contracts"},
+    {"id":"e6","text":"How extensive should the welfare and social safety net be?","left":"Broad, generous public benefits","right":"Narrow, limited; private or charitable help"},
+    {"id":"e7","text":"Should government set a minimum wage?","left":"Yes, high and rising","right":"No, or very low; wages set by the market"},
+    {"id":"e8","text":"Who should own key industries and utilities (energy, rail, banking, telecom)?","left":"Public or state ownership","right":"Private ownership and privatization"},
+    {"id":"e9","text":"Should government actively redistribute wealth to reduce inequality?","left":"Yes, actively redistribute","right":"No, accept market outcomes"},
+    {"id":"e10","text":"What is the best approach to housing?","left":"Public or subsidized housing, rent controls","right":"Market-driven, deregulated housing"},
+    {"id":"e11","text":"How should energy and environmental problems be handled?","left":"Strong government mandates and investment","right":"Market-led, little regulation or mandate"},
+    {"id":"e12","text":"What should government do about spending, debt and its overall size?","left":"Spend more to meet public needs","right":"Cut spending, balance budgets, shrink government"}
+  ],
+  "social": [
+    {"id":"s1","text":"Should government be able to restrict speech it considers harmful, offensive or disloyal?","left":"Speech protected almost absolutely","right":"Broad powers to restrict speech"},
+    {"id":"s2","text":"How much surveillance of citizens should the state be allowed?","left":"Very limited; warrants required","right":"Broad surveillance powers"},
+    {"id":"s3","text":"How much power and how harsh a response should police and the justice system have?","left":"Tight limits on police; lenient sentencing","right":"Expanded powers; harsh sentencing"},
+    {"id":"s4","text":"How should drugs be treated in law?","left":"Legalize or decriminalize","right":"Strict prohibition and penalties"},
+    {"id":"s5","text":"What should the state's relationship with religion be?","left":"Neutral; freedom of belief for all","right":"State promotes or enforces one faith or doctrine, or restricts others"},
+    {"id":"s6","text":"Where should political power sit?","left":"Dispersed: local, federal, many centers","right":"Concentrated in a central state or leader"},
+    {"id":"s7","text":"How should immigration and borders be handled?","left":"Open, easy movement","right":"Tightly restricted and enforced"},
+    {"id":"s8","text":"Who should decide on using military force, and how freely?","left":"Tight legal and legislative limits; restraint","right":"Broad executive freedom to use force"},
+    {"id":"s9","text":"Should the state control or censor news and media?","left":"Free, independent press","right":"State control or censorship of media"},
+    {"id":"s10","text":"May civil liberties be suspended during emergencies or wars?","left":"No; rights hold in emergencies","right":"Yes; broad emergency powers"},
+    {"id":"s11","text":"Should law enforce moral norms on personal conduct (marriage, sexuality, reproduction, personal choices)?","left":"Personal choice; law stays out","right":"Law enforces a moral code"},
+    {"id":"s12","text":"How strong should checks be on the executive (courts, legislature, constitution)?","left":"Strong independent checks","right":"Weak checks; executive acts freely"}
+  ]
+}

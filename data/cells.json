@@ -1,0 +1,2131 @@
+{
+ "regions": {
+  "0,0": {
+   "id": "0,0",
+   "name": "Centrally planned left",
+   "views": [
+    "The economy is directed through a national plan, with major industries owned by the state.",
+    "A single organized party or council is trusted to coordinate production and politics.",
+    "Security and discipline are seen as necessary to protect shared gains.",
+    "Individual freedoms are weighed against collective goals and often rank second."
+   ],
+   "ideologies": [
+    {
+     "name": "Marxism–Leninism",
+     "def": "A communist tradition that favors a vanguard party and a state-owned, planned economy.",
+     "wiki": "Marxism–Leninism"
+    },
+    {
+     "name": "State socialism",
+     "def": "A model where the state owns and runs the main means of production.",
+     "wiki": "State socialism"
+    },
+    {
+     "name": "Democratic centralism",
+     "def": "A party practice of open debate followed by binding unity once a decision is made.",
+     "wiki": "Democratic centralism"
+    }
+   ],
+   "supporters": "Supporters say a central plan can direct resources to need instead of profit, remove unemployment, and move quickly on national goals, while a disciplined state defends those gains from internal and outside pressure.",
+   "critics": "Critics say a central plan struggles to gather enough information, and a party that controls both economy and politics can silence dissent, which removes the feedback that would help correct its own mistakes."
+  },
+  "0,1": {
+   "id": "0,1",
+   "name": "Order-first left",
+   "views": [
+    "Redistribution and public ownership are paired with a strong, unified state.",
+    "National solidarity and discipline are treated as the base of fair economic life.",
+    "Political opposition is tolerated less than in democratic left traditions.",
+    "Leaders who claim to speak for working people often hold broad powers."
+   ],
+   "ideologies": [
+    {
+     "name": "Ba'athism",
+     "def": "An Arab nationalist and socialist movement favoring a single-party state.",
+     "wiki": "Ba'athism"
+    },
+    {
+     "name": "Peronism",
+     "def": "An Argentine movement joining labor rights, state intervention and a strong leader.",
+     "wiki": "Peronism"
+    },
+    {
+     "name": "Left-wing nationalism",
+     "def": "Politics that links social equality with national self-determination.",
+     "wiki": "Left-wing nationalism"
+    }
+   ],
+   "supporters": "Supporters say a strong state is the only force able to stand up to powerful private interests, and that shared national purpose gives working people a reliable voice in the economy.",
+   "critics": "Critics say concentrated authority is hard to hold accountable, and that a leader who speaks for the people can limit the independent groups and courts that let the people speak for themselves."
+  },
+  "0,2": {
+   "id": "0,2",
+   "name": "Strong-state centre",
+   "views": [
+    "The state is the main organizer of public life, with a mix of public and private enterprise.",
+    "Stability, expertise and clear command are valued above open contest.",
+    "Economic views are flexible; the priority is a capable central government.",
+    "Rights may be limited when officials judge that order requires it."
+   ],
+   "ideologies": [
+    {
+     "name": "Statism",
+     "def": "The view that the state should hold a large role in economic and social affairs.",
+     "wiki": "Statism"
+    },
+    {
+     "name": "Technocracy",
+     "def": "Rule by specialists chosen for expertise rather than by popular vote.",
+     "wiki": "Technocracy"
+    },
+    {
+     "name": "Bonapartism",
+     "def": "Strong executive leadership that claims direct backing from the public.",
+     "wiki": "Bonapartism"
+    }
+   ],
+   "supporters": "Supporters say complex problems need decisive, expert-led government that can plan past the next election, act quickly in a crisis, and avoid being stalled by constant bargaining among rival factions.",
+   "critics": "Critics say decisions made without open contest can drift from what people want, and that power which is easy to use is also easy to misuse when few can challenge it."
+  },
+  "0,3": {
+   "id": "0,3",
+   "name": "Order-first market right",
+   "views": [
+    "Private enterprise is welcome, but under close direction from a strong state.",
+    "Business, labor and government are expected to cooperate under national goals.",
+    "Public order, loyalty and unity are weighed heavily against personal liberty.",
+    "Dissent and independent media face tighter limits."
+   ],
+   "ideologies": [
+    {
+     "name": "State capitalism",
+     "def": "An economy where the state takes an active, commercial role in business.",
+     "wiki": "State capitalism"
+    },
+    {
+     "name": "Corporatism",
+     "def": "Organizing society through groups such as industry, labor and professions, coordinated by the state.",
+     "wiki": "Corporatism"
+    },
+    {
+     "name": "Fascism",
+     "def": "A 20th-century authoritarian nationalist movement stressing a single leader, national unity and state-coordinated economics.",
+     "wiki": "Fascism"
+    }
+   ],
+   "supporters": "Supporters say pairing market incentives with firm state guidance delivers growth and stability together, and that shared national aims help firms, workers and officials pull in one direction.",
+   "critics": "Critics say close ties between rulers and business invite favoritism, and that limits on speech and organization remove the checks that expose waste and protect people from official overreach."
+  },
+  "0,4": {
+   "id": "0,4",
+   "name": "Hierarchy-and-market right",
+   "views": [
+    "Property, inherited institutions and settled hierarchy are treated as stabilizing.",
+    "Markets operate within a social order led by a monarch, elite or tradition.",
+    "Authority is seen as legitimate when it rests on custom or religion.",
+    "Popular participation is limited compared with liberal democracies."
+   ],
+   "ideologies": [
+    {
+     "name": "Monarchism",
+     "def": "Support for a monarch as head of state or ruler.",
+     "wiki": "Monarchism"
+    },
+    {
+     "name": "Integralism",
+     "def": "The view that religious teaching should guide the state and public law.",
+     "wiki": "Integralism"
+    },
+    {
+     "name": "Authoritarian conservatism",
+     "def": "Conservatism that backs strong rulers to preserve existing institutions.",
+     "wiki": "Authoritarian conservatism"
+    }
+   ],
+   "supporters": "Supporters say lasting institutions, tested by generations, protect property and continuity better than shifting majorities, and a clear order gives markets and families a stable footing over time.",
+   "critics": "Critics say inherited rank limits who can rise on merit, and that rule resting on custom leaves ordinary people with few lawful ways to change policies they believe are unfair."
+  },
+  "1,0": {
+   "id": "1,0",
+   "name": "Collectivist left",
+   "views": [
+    "Shared ownership and common planning take priority over private enterprise.",
+    "Class and economic structure are seen as the main drivers of politics.",
+    "Strong organization is thought necessary to defend workers' interests.",
+    "Some limits on personal liberty are accepted in service of equality."
+   ],
+   "ideologies": [
+    {
+     "name": "Communism",
+     "def": "A system aiming at common ownership of property and the end of class divisions.",
+     "wiki": "Communism"
+    },
+    {
+     "name": "Marxism",
+     "def": "A body of theory analyzing class conflict and capitalism.",
+     "wiki": "Marxism"
+    },
+    {
+     "name": "Collectivism",
+     "def": "Giving priority to the group over the individual in economic and social life.",
+     "wiki": "Collectivism"
+    }
+   ],
+   "supporters": "Supporters say common ownership ends exploitation, ties output to need, and gives everyone a stake in the shared economy, with organization strong enough to protect that arrangement.",
+   "critics": "Critics say common ownership removes price signals and personal incentives, and that the organization needed to run it tends to gather power in a small group."
+  },
+  "1,1": {
+   "id": "1,1",
+   "name": "State-led left",
+   "views": [
+    "Government plays a large role in the economy: public services, regulation and some public ownership.",
+    "Strong unions and worker protections are central policy aims.",
+    "Law and order and national institutions are supported, with some limits on liberty.",
+    "Elected government is the main tool for reducing inequality."
+   ],
+   "ideologies": [
+    {
+     "name": "Democratic socialism",
+     "def": "Socialist goals pursued through elections, with democratic control of key industries.",
+     "wiki": "Democratic socialism"
+    },
+    {
+     "name": "Dirigisme",
+     "def": "An economy where the state directs investment and industrial strategy.",
+     "wiki": "Dirigisme"
+    },
+    {
+     "name": "Labour movement",
+     "def": "Collective organization of workers through unions and parties.",
+     "wiki": "Labour movement"
+    }
+   ],
+   "supporters": "Supporters say an active government can steer investment, guarantee services and protect workers from swings in the market, and that elected leaders need real tools to deliver what voters ask for.",
+   "critics": "Critics say a large state can crowd out private investment and grow slow to adapt, and that strong central tools, once built, can be used for aims that voters did not choose."
+  },
+  "1,2": {
+   "id": "1,2",
+   "name": "Pragmatic authority centre",
+   "views": [
+    "A mixed economy with moderate taxes, public services and market competition.",
+    "Social order, family and community institutions are given real weight.",
+    "A capable state is trusted to enforce laws and protect shared values.",
+    "Change is preferred gradually and through established institutions."
+   ],
+   "ideologies": [
+    {
+     "name": "Christian democracy",
+     "def": "A tradition mixing social-market economics with moral and community values.",
+     "wiki": "Christian democracy"
+    },
+    {
+     "name": "Gaullism",
+     "def": "French politics centered on national independence and a strong executive.",
+     "wiki": "Gaullism"
+    },
+    {
+     "name": "One-nation conservatism",
+     "def": "Conservatism that stresses social responsibility between classes.",
+     "wiki": "One-nation conservatism"
+    }
+   ],
+   "supporters": "Supporters say balancing markets with community duties produces steady policy that most people can live with, and that firm institutions keep society cohesive through change.",
+   "critics": "Critics say the middle path can lack a clear direction, and that reliance on established institutions and moral norms can slow reforms that some groups feel are overdue."
+  },
+  "1,3": {
+   "id": "1,3",
+   "name": "Traditionalist right",
+   "views": [
+    "Markets are favored, alongside respect for tradition, religion and family.",
+    "Law enforcement and national defense are seen as core government duties.",
+    "Social norms are defended through law and public institutions in some areas.",
+    "Immigration and cultural change are approached with caution."
+   ],
+   "ideologies": [
+    {
+     "name": "Social conservatism",
+     "def": "Support for traditional social values and institutions.",
+     "wiki": "Social conservatism"
+    },
+    {
+     "name": "National conservatism",
+     "def": "Conservatism emphasizing national identity, sovereignty and cultural heritage.",
+     "wiki": "National conservatism"
+    },
+    {
+     "name": "Neoconservatism",
+     "def": "A movement favoring market economics and an active, values-driven foreign policy.",
+     "wiki": "Neoconservatism"
+    }
+   ],
+   "supporters": "Supporters say shared customs and a secure nation give people the stability to build families and businesses, and that law should reflect values most citizens already hold.",
+   "critics": "Critics say using law to uphold tradition can restrict people whose lives differ from the norm, and that emphasis on national identity can make it harder to include newcomers."
+  },
+  "1,4": {
+   "id": "1,4",
+   "name": "National-market right",
+   "views": [
+    "Low taxes and limited regulation, joined with strong borders and firm policing.",
+    "National interest and sovereignty guide trade and foreign policy.",
+    "Private enterprise is the engine of prosperity, with government limited in economic life.",
+    "Public order is prioritized over broad civil protections in some areas."
+   ],
+   "ideologies": [
+    {
+     "name": "Right-wing populism",
+     "def": "A style of politics that pits ordinary citizens against established elites, from the right.",
+     "wiki": "Right-wing populism"
+    },
+    {
+     "name": "Fiscal conservatism",
+     "def": "Support for low spending, low taxes and balanced budgets.",
+     "wiki": "Fiscal conservatism"
+    },
+    {
+     "name": "Nationalism",
+     "def": "Placing the interests and identity of one's own nation first.",
+     "wiki": "Nationalism"
+    }
+   ],
+   "supporters": "Supporters say lower taxes and fewer rules free families and firms to prosper, while secure borders and firm policing protect the community that makes that prosperity possible.",
+   "critics": "Critics say low spending can leave public services thin when people need them, and that tight border and policing policy can burden minorities and slow trade."
+  },
+  "2,0": {
+   "id": "2,0",
+   "name": "Democratic socialist left",
+   "views": [
+    "Major industries or utilities are under public or worker ownership.",
+    "Elections, free press and free assembly are kept as the route to change.",
+    "Strong unions and large public programs are central.",
+    "Economic democracy is paired with civil rights."
+   ],
+   "ideologies": [
+    {
+     "name": "Socialism",
+     "def": "An economic system based on social or collective ownership.",
+     "wiki": "Socialism"
+    },
+    {
+     "name": "Market socialism",
+     "def": "Socialism where worker-run firms compete in markets.",
+     "wiki": "Market socialism"
+    },
+    {
+     "name": "Cooperative",
+     "def": "Enterprises owned and run by their members.",
+     "wiki": "Cooperative"
+    }
+   ],
+   "supporters": "Supporters say shared ownership spreads wealth and voice at work, and that keeping elections and open debate means the public can adjust or reverse the system as they see fit.",
+   "critics": "Critics say public ownership can weigh down innovation and local choice, and that sweeping ownership changes can be hard to undo if they prove unpopular or costly."
+  },
+  "2,1": {
+   "id": "2,1",
+   "name": "Social democratic left",
+   "views": [
+    "A market economy with high taxes funding wide public services.",
+    "Healthcare, education and pensions are treated as shared guarantees.",
+    "Civil liberties and democratic procedure are firmly protected.",
+    "Regulation and unions balance the power of employers."
+   ],
+   "ideologies": [
+    {
+     "name": "Social democracy",
+     "def": "Reforming capitalism through welfare provision and regulation.",
+     "wiki": "Social democracy"
+    },
+    {
+     "name": "Welfare state",
+     "def": "A system where government protects citizens' economic and social well-being.",
+     "wiki": "Welfare state"
+    },
+    {
+     "name": "Keynesian economics",
+     "def": "Using public spending and demand management to steady the economy.",
+     "wiki": "Keynesian economics"
+    }
+   ],
+   "supporters": "Supporters say a strong safety net and shared services make markets fairer and more stable, and let people take risks knowing a bad break will not ruin them.",
+   "critics": "Critics say high taxes can reduce investment and work incentives, and that large programs may grow costly and harder to reform than the budgets that first funded them."
+  },
+  "2,2": {
+   "id": "2,2",
+   "name": "Balanced centre",
+   "views": [
+    "A mix of market competition and public provision; no single doctrine leads.",
+    "Policies are judged one by one on evidence and trade-offs.",
+    "Both personal liberty and public safety carry weight.",
+    "Compromise between camps is seen as a strength."
+   ],
+   "ideologies": [
+    {
+     "name": "Centrism",
+     "def": "A position between left and right that mixes ideas from both.",
+     "wiki": "Centrism"
+    },
+    {
+     "name": "Third Way",
+     "def": "A 1990s approach pairing market economics with social goals.",
+     "wiki": "Third Way"
+    },
+    {
+     "name": "Social market economy",
+     "def": "A market system with a framework of social protections.",
+     "wiki": "Social market economy"
+    }
+   ],
+   "supporters": "Supporters say choosing policies by their results rather than by loyalty lets governments adapt, and that compromise keeps a divided society working together.",
+   "critics": "Critics say judging each issue alone can lack a guiding principle, and that seeking the midpoint may avoid bold change when it is needed."
+  },
+  "2,3": {
+   "id": "2,3",
+   "name": "Market-leaning centre-right",
+   "views": [
+    "Markets are trusted to lead, with a modest safety net and rules for fair competition.",
+    "Fiscal discipline and predictable rules are priorities.",
+    "Civil liberties are broadly supported, with some role for tradition.",
+    "Trade and enterprise are seen as sources of opportunity."
+   ],
+   "ideologies": [
+    {
+     "name": "Liberal conservatism",
+     "def": "A blend of market liberalism with respect for tradition and institutions.",
+     "wiki": "Liberal conservatism"
+    },
+    {
+     "name": "Ordoliberalism",
+     "def": "A German school favoring free markets under a strong legal framework.",
+     "wiki": "Ordoliberalism"
+    },
+    {
+     "name": "Neoliberalism",
+     "def": "A set of policies promoting markets, privatization and trade openness.",
+     "wiki": "Neoliberalism"
+    }
+   ],
+   "supporters": "Supporters say competition and clear rules raise living standards and reward effort, while a modest safety net and stable budgets protect the public without discouraging work.",
+   "critics": "Critics say market outcomes can leave some regions and workers behind, and that cutting back public provision can widen gaps that a modest safety net does not fully close."
+  },
+  "2,4": {
+   "id": "2,4",
+   "name": "Free-market right",
+   "views": [
+    "Low taxes, limited regulation and private ownership are the default.",
+    "Voluntary exchange is seen as the most reliable path to prosperity.",
+    "Government is kept to core functions such as courts and defense.",
+    "Social questions are often left to individual choice."
+   ],
+   "ideologies": [
+    {
+     "name": "Laissez-faire",
+     "def": "An approach where government does not interfere in economic affairs.",
+     "wiki": "Laissez-faire"
+    },
+    {
+     "name": "Supply-side economics",
+     "def": "Cutting taxes and rules to encourage production and investment.",
+     "wiki": "Supply-side economics"
+    },
+    {
+     "name": "Chicago school",
+     "def": "An economics tradition favoring free markets and limited intervention.",
+     "wiki": "Chicago school of economics"
+    }
+   ],
+   "supporters": "Supporters say open markets reward innovation and spread goods widely, and that limiting government keeps decisions with the people who bear their consequences.",
+   "critics": "Critics say unregulated markets can concentrate wealth and overlook costs such as pollution, and that a thin safety net leaves little protection when luck turns."
+  },
+  "3,0": {
+   "id": "3,0",
+   "name": "Cooperative libertarian left",
+   "views": [
+    "Shared ownership and worker control are favored, without a strong central state.",
+    "Decisions are made in councils, unions and community groups.",
+    "Civil liberties are treated as essential to real equality.",
+    "Hierarchies of any kind need constant justification."
+   ],
+   "ideologies": [
+    {
+     "name": "Libertarian socialism",
+     "def": "Socialism that rejects state control in favor of free association and worker self-management.",
+     "wiki": "Libertarian socialism"
+    },
+    {
+     "name": "Syndicalism",
+     "def": "Organizing the economy through trade unions and worker federations.",
+     "wiki": "Syndicalism"
+    },
+    {
+     "name": "Mutualism",
+     "def": "A tradition built on cooperative exchange and credit among producers.",
+     "wiki": "Mutualism (economic theory)"
+    }
+   ],
+   "supporters": "Supporters say people who do the work should run the workplace, and that voluntary federations spread power so no single office can dominate public life.",
+   "critics": "Critics say large-scale coordination without central authority is hard to organize, and that informal councils can be dominated by the most persistent members or fail to settle disputes."
+  },
+  "3,1": {
+   "id": "3,1",
+   "name": "Progressive reform left",
+   "views": [
+    "Public services and regulation are paired with strong personal and civil rights.",
+    "Reform is pursued through courts, legislatures and civil society.",
+    "Inequality across groups is treated as a central issue to address.",
+    "Environmental policy is a leading priority."
+   ],
+   "ideologies": [
+    {
+     "name": "Progressivism",
+     "def": "A reform tradition seeking social change through government and policy.",
+     "wiki": "Progressivism"
+    },
+    {
+     "name": "Social liberalism",
+     "def": "Liberalism that supports economic regulation alongside personal freedom.",
+     "wiki": "Social liberalism"
+    },
+    {
+     "name": "Green politics",
+     "def": "Politics centered on ecology, sustainability and participation.",
+     "wiki": "Green politics"
+    }
+   ],
+   "supporters": "Supporters say pairing public action with strong rights lets society correct unfair outcomes while protecting minorities and the environment from decisions made on short-term interest.",
+   "critics": "Critics say broad reform agendas can raise costs and compliance burdens, and that social change led from the top can move faster than public consensus allows."
+  },
+  "3,2": {
+   "id": "3,2",
+   "name": "Civil-liberties centre",
+   "views": [
+    "Personal freedom, rule of law and open debate come first; economics is flexible.",
+    "Government should be limited by clear rights and strong courts.",
+    "Both public provision and markets are acceptable where they work.",
+    "Free expression and privacy are defended across the board."
+   ],
+   "ideologies": [
+    {
+     "name": "Liberalism",
+     "def": "A tradition centered on individual rights, consent and limited government.",
+     "wiki": "Liberalism"
+    },
+    {
+     "name": "Liberal democracy",
+     "def": "Elected government limited by law and protected rights.",
+     "wiki": "Liberal democracy"
+    },
+    {
+     "name": "Civil libertarianism",
+     "def": "Strong defense of civil rights against state power.",
+     "wiki": "Civil libertarianism"
+    }
+   ],
+   "supporters": "Supporters say guarding rights and the rule of law gives people room to pursue their own goals, and that free debate is the best method of finding and fixing errors.",
+   "critics": "Critics say a focus on procedure can leave economic and security concerns unaddressed, and that strict limits on government may slow its response to urgent shared problems."
+  },
+  "3,3": {
+   "id": "3,3",
+   "name": "Classical-liberal right",
+   "views": [
+    "Free markets and strong individual rights are viewed as linked.",
+    "Government is limited by a constitution and independent courts.",
+    "Low taxes and open trade are favored; personal lifestyles are left alone.",
+    "Voluntary association is preferred to mandates."
+   ],
+   "ideologies": [
+    {
+     "name": "Classical liberalism",
+     "def": "Liberty, limited government and free markets as the base of a free society.",
+     "wiki": "Classical liberalism"
+    },
+    {
+     "name": "Economic liberalism",
+     "def": "Support for private ownership and market allocation of resources.",
+     "wiki": "Economic liberalism"
+    },
+    {
+     "name": "Conservative liberalism",
+     "def": "Liberalism joined with a conservative approach to institutions.",
+     "wiki": "Conservative liberalism"
+    }
+   ],
+   "supporters": "Supporters say protecting property and personal rights together builds trust and prosperity, and that limited government stays responsive when its powers are narrow and clear.",
+   "critics": "Critics say strict limits on public action may leave gaps in health, housing and education, and that formal equality of rights does not always yield equal real opportunity."
+  },
+  "3,4": {
+   "id": "3,4",
+   "name": "Market libertarian right",
+   "views": [
+    "Private property, free exchange and minimal government are central principles.",
+    "Taxes and regulation are viewed as intrusions on personal choice.",
+    "Personal freedoms, including drug and lifestyle choices, are strongly defended.",
+    "Government is limited to protecting rights."
+   ],
+   "ideologies": [
+    {
+     "name": "Libertarianism",
+     "def": "Political philosophy that treats individual liberty as the highest aim.",
+     "wiki": "Libertarianism"
+    },
+    {
+     "name": "Objectivism",
+     "def": "A philosophy by Ayn Rand favoring rational self-interest and laissez-faire capitalism.",
+     "wiki": "Objectivism"
+    },
+    {
+     "name": "Minarchism",
+     "def": "The view that the state should be limited to a small set of functions.",
+     "wiki": "Minarchism"
+    }
+   ],
+   "supporters": "Supporters say consistent respect for choice and property creates both freedom and prosperity, and that fewer rules let people and firms find solutions that planners would miss.",
+   "critics": "Critics say markets alone may not supply shared goods like clean air or basic healthcare, and that a very small state can leave people without recourse when private arrangements fail."
+  },
+  "4,0": {
+   "id": "4,0",
+   "name": "Anarcho-collectivist left",
+   "views": [
+    "A stateless society based on common ownership and mutual aid.",
+    "Decisions are made by communities and federations of workers.",
+    "Rejects both capitalism and state authority.",
+    "Emphasizes equality and solidarity as the basis of freedom."
+   ],
+   "ideologies": [
+    {
+     "name": "Anarcho-communism",
+     "def": "Stateless society with common ownership and distribution by need.",
+     "wiki": "Anarcho-communism"
+    },
+    {
+     "name": "Anarcho-syndicalism",
+     "def": "Anarchism organized through revolutionary unions.",
+     "wiki": "Anarcho-syndicalism"
+    },
+    {
+     "name": "Social anarchism",
+     "def": "Anarchist traditions that stress cooperation and collective freedom.",
+     "wiki": "Social anarchism"
+    }
+   ],
+   "supporters": "Supporters say people can organize themselves through voluntary cooperation, and that removing both bosses and rulers lets equality and freedom support each other.",
+   "critics": "Critics say large societies need some enforceable rules to settle disputes and provide shared services, and that voluntary arrangements may not hold when interests clash."
+  },
+  "4,1": {
+   "id": "4,1",
+   "name": "Voluntary-cooperation left",
+   "views": [
+    "Communities, cooperatives and local assemblies make decisions together.",
+    "Large states and large corporations are both viewed with caution.",
+    "Strong personal liberty, with shared support through mutual aid.",
+    "Change is sought through building alternatives and direct participation."
+   ],
+   "ideologies": [
+    {
+     "name": "Anarchism",
+     "def": "Opposition to compulsory authority, including the state.",
+     "wiki": "Anarchism"
+    },
+    {
+     "name": "Mutual aid",
+     "def": "Voluntary exchange of resources and services for mutual benefit.",
+     "wiki": "Mutual aid (organization theory)"
+    },
+    {
+     "name": "Libertarian municipalism",
+     "def": "Direct democracy through local assemblies linked in confederation.",
+     "wiki": "Libertarian municipalism"
+    }
+   ],
+   "supporters": "Supporters say local, voluntary groups keep decisions close to the people affected, and that mutual aid can meet needs without large bureaucracies or powerful owners.",
+   "critics": "Critics say small-scale models may not handle national challenges like defense or infrastructure, and that active participation demands time that not everyone has to give."
+  },
+  "4,2": {
+   "id": "4,2",
+   "name": "Minimal-state centre",
+   "views": [
+    "Very limited government with maximum personal and voluntary choice.",
+    "Economic views vary, from cooperative to commercial arrangements.",
+    "Strong skepticism of surveillance, coercion and state power.",
+    "Individual conscience guides political decisions."
+   ],
+   "ideologies": [
+    {
+     "name": "Individualist anarchism",
+     "def": "Anarchist thought that stresses individual sovereignty.",
+     "wiki": "Individualist anarchism"
+    },
+    {
+     "name": "Voluntaryism",
+     "def": "The view that all human relationships should be voluntary.",
+     "wiki": "Voluntaryism"
+    },
+    {
+     "name": "Left-libertarianism",
+     "def": "Libertarian thought that couples self-ownership with shared claims on natural resources.",
+     "wiki": "Left-libertarianism"
+    }
+   ],
+   "supporters": "Supporters say people are best placed to run their own lives, and that consent should be the test of any rule, whether it comes from government or from a private party.",
+   "critics": "Critics say strict reliance on consent can leave out people who cannot bargain on equal terms, and that common services are difficult to supply without some compulsory contribution."
+  },
+  "4,3": {
+   "id": "4,3",
+   "name": "Voluntary-market centre-right",
+   "views": [
+    "Private property and voluntary contracts are the base of social order.",
+    "Government is replaced or sharply reduced, with private provision of services.",
+    "Personal freedom of association and exit is stressed.",
+    "Skeptical of both regulation and welfare programs."
+   ],
+   "ideologies": [
+    {
+     "name": "Right-libertarianism",
+     "def": "Libertarian thought stressing self-ownership and private property.",
+     "wiki": "Right-libertarianism"
+    },
+    {
+     "name": "Agorism",
+     "def": "A philosophy seeking a society built on voluntary markets outside state control.",
+     "wiki": "Agorism"
+    },
+    {
+     "name": "Austrian school",
+     "def": "An economics tradition that emphasizes individual action and market processes.",
+     "wiki": "Austrian school"
+    }
+   ],
+   "supporters": "Supporters say voluntary contracts and competing providers can supply even law and security more responsively than a monopoly, and that people can leave a provider they dislike.",
+   "critics": "Critics say private provision of core functions may favor those who can pay, and that without a shared legal authority, disputes between powerful parties can be hard to resolve fairly."
+  },
+  "4,4": {
+   "id": "4,4",
+   "name": "Anarcho-market right",
+   "views": [
+    "A fully private-property society without a state.",
+    "Courts, defense and roads are provided by competing private firms.",
+    "Strong support for personal liberty and voluntary exchange.",
+    "Taxation is viewed as coercion."
+   ],
+   "ideologies": [
+    {
+     "name": "Anarcho-capitalism",
+     "def": "Anarchism joined with free-market capitalism and private property.",
+     "wiki": "Anarcho-capitalism"
+    },
+    {
+     "name": "Agorism",
+     "def": "Counter-economics and market activity outside state control.",
+     "wiki": "Agorism"
+    },
+    {
+     "name": "Anarchism",
+     "def": "Opposition to compulsory authority, including the state.",
+     "wiki": "Anarchism"
+    }
+   ],
+   "supporters": "Supporters say all services, including justice, can be provided by voluntary contract, and that removing taxation honors consent and lets competition raise quality and lower prices.",
+   "critics": "Critics say competing private security and courts may serve the wealthy better than the poor, and that without a shared framework the strong could set the terms."
+  }
+ },
+ "cells": [
+  {
+   "r": 0,
+   "c": 0,
+   "region": "0,0",
+   "econ": [
+    -10,
+    -8
+   ],
+   "social": [
+    8,
+    10
+   ],
+   "note": "This tile is part of the Centrally planned left region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 0,
+   "c": 1,
+   "region": "0,0",
+   "econ": [
+    -8,
+    -6
+   ],
+   "social": [
+    8,
+    10
+   ],
+   "note": "This tile is part of the Centrally planned left region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 0,
+   "c": 2,
+   "region": "0,1",
+   "econ": [
+    -6,
+    -4
+   ],
+   "social": [
+    8,
+    10
+   ],
+   "note": "This tile is part of the Order-first left region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 0,
+   "c": 3,
+   "region": "0,1",
+   "econ": [
+    -4,
+    -2
+   ],
+   "social": [
+    8,
+    10
+   ],
+   "note": "This tile is part of the Order-first left region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 0,
+   "c": 4,
+   "region": "0,2",
+   "econ": [
+    -2,
+    0
+   ],
+   "social": [
+    8,
+    10
+   ],
+   "note": "This tile is part of the Strong-state centre region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 0,
+   "c": 5,
+   "region": "0,2",
+   "econ": [
+    0,
+    2
+   ],
+   "social": [
+    8,
+    10
+   ],
+   "note": "This tile is part of the Strong-state centre region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 0,
+   "c": 6,
+   "region": "0,3",
+   "econ": [
+    2,
+    4
+   ],
+   "social": [
+    8,
+    10
+   ],
+   "note": "This tile is part of the Order-first market right region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 0,
+   "c": 7,
+   "region": "0,3",
+   "econ": [
+    4,
+    6
+   ],
+   "social": [
+    8,
+    10
+   ],
+   "note": "This tile is part of the Order-first market right region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 0,
+   "c": 8,
+   "region": "0,4",
+   "econ": [
+    6,
+    8
+   ],
+   "social": [
+    8,
+    10
+   ],
+   "note": "This tile is part of the Hierarchy-and-market right region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 0,
+   "c": 9,
+   "region": "0,4",
+   "econ": [
+    8,
+    10
+   ],
+   "social": [
+    8,
+    10
+   ],
+   "note": "This tile is part of the Hierarchy-and-market right region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 1,
+   "c": 0,
+   "region": "0,0",
+   "econ": [
+    -10,
+    -8
+   ],
+   "social": [
+    6,
+    8
+   ],
+   "note": "This tile is part of the Centrally planned left region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 1,
+   "c": 1,
+   "region": "0,0",
+   "econ": [
+    -8,
+    -6
+   ],
+   "social": [
+    6,
+    8
+   ],
+   "note": "This tile is part of the Centrally planned left region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 1,
+   "c": 2,
+   "region": "0,1",
+   "econ": [
+    -6,
+    -4
+   ],
+   "social": [
+    6,
+    8
+   ],
+   "note": "This tile is part of the Order-first left region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 1,
+   "c": 3,
+   "region": "0,1",
+   "econ": [
+    -4,
+    -2
+   ],
+   "social": [
+    6,
+    8
+   ],
+   "note": "This tile is part of the Order-first left region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 1,
+   "c": 4,
+   "region": "0,2",
+   "econ": [
+    -2,
+    0
+   ],
+   "social": [
+    6,
+    8
+   ],
+   "note": "This tile is part of the Strong-state centre region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 1,
+   "c": 5,
+   "region": "0,2",
+   "econ": [
+    0,
+    2
+   ],
+   "social": [
+    6,
+    8
+   ],
+   "note": "This tile is part of the Strong-state centre region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 1,
+   "c": 6,
+   "region": "0,3",
+   "econ": [
+    2,
+    4
+   ],
+   "social": [
+    6,
+    8
+   ],
+   "note": "This tile is part of the Order-first market right region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 1,
+   "c": 7,
+   "region": "0,3",
+   "econ": [
+    4,
+    6
+   ],
+   "social": [
+    6,
+    8
+   ],
+   "note": "This tile is part of the Order-first market right region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 1,
+   "c": 8,
+   "region": "0,4",
+   "econ": [
+    6,
+    8
+   ],
+   "social": [
+    6,
+    8
+   ],
+   "note": "This tile is part of the Hierarchy-and-market right region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 1,
+   "c": 9,
+   "region": "0,4",
+   "econ": [
+    8,
+    10
+   ],
+   "social": [
+    6,
+    8
+   ],
+   "note": "This tile is part of the Hierarchy-and-market right region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 2,
+   "c": 0,
+   "region": "1,0",
+   "econ": [
+    -10,
+    -8
+   ],
+   "social": [
+    4,
+    6
+   ],
+   "note": "This tile is part of the Collectivist left region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 2,
+   "c": 1,
+   "region": "1,0",
+   "econ": [
+    -8,
+    -6
+   ],
+   "social": [
+    4,
+    6
+   ],
+   "note": "This tile is part of the Collectivist left region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 2,
+   "c": 2,
+   "region": "1,1",
+   "econ": [
+    -6,
+    -4
+   ],
+   "social": [
+    4,
+    6
+   ],
+   "note": "This tile is part of the State-led left region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 2,
+   "c": 3,
+   "region": "1,1",
+   "econ": [
+    -4,
+    -2
+   ],
+   "social": [
+    4,
+    6
+   ],
+   "note": "This tile is part of the State-led left region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 2,
+   "c": 4,
+   "region": "1,2",
+   "econ": [
+    -2,
+    0
+   ],
+   "social": [
+    4,
+    6
+   ],
+   "note": "This tile is part of the Pragmatic authority centre region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 2,
+   "c": 5,
+   "region": "1,2",
+   "econ": [
+    0,
+    2
+   ],
+   "social": [
+    4,
+    6
+   ],
+   "note": "This tile is part of the Pragmatic authority centre region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 2,
+   "c": 6,
+   "region": "1,3",
+   "econ": [
+    2,
+    4
+   ],
+   "social": [
+    4,
+    6
+   ],
+   "note": "This tile is part of the Traditionalist right region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 2,
+   "c": 7,
+   "region": "1,3",
+   "econ": [
+    4,
+    6
+   ],
+   "social": [
+    4,
+    6
+   ],
+   "note": "This tile is part of the Traditionalist right region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 2,
+   "c": 8,
+   "region": "1,4",
+   "econ": [
+    6,
+    8
+   ],
+   "social": [
+    4,
+    6
+   ],
+   "note": "This tile is part of the National-market right region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 2,
+   "c": 9,
+   "region": "1,4",
+   "econ": [
+    8,
+    10
+   ],
+   "social": [
+    4,
+    6
+   ],
+   "note": "This tile is part of the National-market right region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 3,
+   "c": 0,
+   "region": "1,0",
+   "econ": [
+    -10,
+    -8
+   ],
+   "social": [
+    2,
+    4
+   ],
+   "note": "This tile is part of the Collectivist left region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 3,
+   "c": 1,
+   "region": "1,0",
+   "econ": [
+    -8,
+    -6
+   ],
+   "social": [
+    2,
+    4
+   ],
+   "note": "This tile is part of the Collectivist left region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 3,
+   "c": 2,
+   "region": "1,1",
+   "econ": [
+    -6,
+    -4
+   ],
+   "social": [
+    2,
+    4
+   ],
+   "note": "This tile is part of the State-led left region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 3,
+   "c": 3,
+   "region": "1,1",
+   "econ": [
+    -4,
+    -2
+   ],
+   "social": [
+    2,
+    4
+   ],
+   "note": "This tile is part of the State-led left region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 3,
+   "c": 4,
+   "region": "1,2",
+   "econ": [
+    -2,
+    0
+   ],
+   "social": [
+    2,
+    4
+   ],
+   "note": "This tile is part of the Pragmatic authority centre region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 3,
+   "c": 5,
+   "region": "1,2",
+   "econ": [
+    0,
+    2
+   ],
+   "social": [
+    2,
+    4
+   ],
+   "note": "This tile is part of the Pragmatic authority centre region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 3,
+   "c": 6,
+   "region": "1,3",
+   "econ": [
+    2,
+    4
+   ],
+   "social": [
+    2,
+    4
+   ],
+   "note": "This tile is part of the Traditionalist right region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 3,
+   "c": 7,
+   "region": "1,3",
+   "econ": [
+    4,
+    6
+   ],
+   "social": [
+    2,
+    4
+   ],
+   "note": "This tile is part of the Traditionalist right region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 3,
+   "c": 8,
+   "region": "1,4",
+   "econ": [
+    6,
+    8
+   ],
+   "social": [
+    2,
+    4
+   ],
+   "note": "This tile is part of the National-market right region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 3,
+   "c": 9,
+   "region": "1,4",
+   "econ": [
+    8,
+    10
+   ],
+   "social": [
+    2,
+    4
+   ],
+   "note": "This tile is part of the National-market right region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 4,
+   "c": 0,
+   "region": "2,0",
+   "econ": [
+    -10,
+    -8
+   ],
+   "social": [
+    0,
+    2
+   ],
+   "note": "This tile is part of the Democratic socialist left region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 4,
+   "c": 1,
+   "region": "2,0",
+   "econ": [
+    -8,
+    -6
+   ],
+   "social": [
+    0,
+    2
+   ],
+   "note": "This tile is part of the Democratic socialist left region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 4,
+   "c": 2,
+   "region": "2,1",
+   "econ": [
+    -6,
+    -4
+   ],
+   "social": [
+    0,
+    2
+   ],
+   "note": "This tile is part of the Social democratic left region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 4,
+   "c": 3,
+   "region": "2,1",
+   "econ": [
+    -4,
+    -2
+   ],
+   "social": [
+    0,
+    2
+   ],
+   "note": "This tile is part of the Social democratic left region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 4,
+   "c": 4,
+   "region": "2,2",
+   "econ": [
+    -2,
+    0
+   ],
+   "social": [
+    0,
+    2
+   ],
+   "note": "This tile is part of the Balanced centre region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 4,
+   "c": 5,
+   "region": "2,2",
+   "econ": [
+    0,
+    2
+   ],
+   "social": [
+    0,
+    2
+   ],
+   "note": "This tile is part of the Balanced centre region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 4,
+   "c": 6,
+   "region": "2,3",
+   "econ": [
+    2,
+    4
+   ],
+   "social": [
+    0,
+    2
+   ],
+   "note": "This tile is part of the Market-leaning centre-right region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 4,
+   "c": 7,
+   "region": "2,3",
+   "econ": [
+    4,
+    6
+   ],
+   "social": [
+    0,
+    2
+   ],
+   "note": "This tile is part of the Market-leaning centre-right region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 4,
+   "c": 8,
+   "region": "2,4",
+   "econ": [
+    6,
+    8
+   ],
+   "social": [
+    0,
+    2
+   ],
+   "note": "This tile is part of the Free-market right region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 4,
+   "c": 9,
+   "region": "2,4",
+   "econ": [
+    8,
+    10
+   ],
+   "social": [
+    0,
+    2
+   ],
+   "note": "This tile is part of the Free-market right region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 5,
+   "c": 0,
+   "region": "2,0",
+   "econ": [
+    -10,
+    -8
+   ],
+   "social": [
+    -2,
+    0
+   ],
+   "note": "This tile is part of the Democratic socialist left region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 5,
+   "c": 1,
+   "region": "2,0",
+   "econ": [
+    -8,
+    -6
+   ],
+   "social": [
+    -2,
+    0
+   ],
+   "note": "This tile is part of the Democratic socialist left region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 5,
+   "c": 2,
+   "region": "2,1",
+   "econ": [
+    -6,
+    -4
+   ],
+   "social": [
+    -2,
+    0
+   ],
+   "note": "This tile is part of the Social democratic left region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 5,
+   "c": 3,
+   "region": "2,1",
+   "econ": [
+    -4,
+    -2
+   ],
+   "social": [
+    -2,
+    0
+   ],
+   "note": "This tile is part of the Social democratic left region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 5,
+   "c": 4,
+   "region": "2,2",
+   "econ": [
+    -2,
+    0
+   ],
+   "social": [
+    -2,
+    0
+   ],
+   "note": "This tile is part of the Balanced centre region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 5,
+   "c": 5,
+   "region": "2,2",
+   "econ": [
+    0,
+    2
+   ],
+   "social": [
+    -2,
+    0
+   ],
+   "note": "This tile is part of the Balanced centre region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 5,
+   "c": 6,
+   "region": "2,3",
+   "econ": [
+    2,
+    4
+   ],
+   "social": [
+    -2,
+    0
+   ],
+   "note": "This tile is part of the Market-leaning centre-right region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 5,
+   "c": 7,
+   "region": "2,3",
+   "econ": [
+    4,
+    6
+   ],
+   "social": [
+    -2,
+    0
+   ],
+   "note": "This tile is part of the Market-leaning centre-right region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 5,
+   "c": 8,
+   "region": "2,4",
+   "econ": [
+    6,
+    8
+   ],
+   "social": [
+    -2,
+    0
+   ],
+   "note": "This tile is part of the Free-market right region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 5,
+   "c": 9,
+   "region": "2,4",
+   "econ": [
+    8,
+    10
+   ],
+   "social": [
+    -2,
+    0
+   ],
+   "note": "This tile is part of the Free-market right region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 6,
+   "c": 0,
+   "region": "3,0",
+   "econ": [
+    -10,
+    -8
+   ],
+   "social": [
+    -4,
+    -2
+   ],
+   "note": "This tile is part of the Cooperative libertarian left region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 6,
+   "c": 1,
+   "region": "3,0",
+   "econ": [
+    -8,
+    -6
+   ],
+   "social": [
+    -4,
+    -2
+   ],
+   "note": "This tile is part of the Cooperative libertarian left region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 6,
+   "c": 2,
+   "region": "3,1",
+   "econ": [
+    -6,
+    -4
+   ],
+   "social": [
+    -4,
+    -2
+   ],
+   "note": "This tile is part of the Progressive reform left region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 6,
+   "c": 3,
+   "region": "3,1",
+   "econ": [
+    -4,
+    -2
+   ],
+   "social": [
+    -4,
+    -2
+   ],
+   "note": "This tile is part of the Progressive reform left region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 6,
+   "c": 4,
+   "region": "3,2",
+   "econ": [
+    -2,
+    0
+   ],
+   "social": [
+    -4,
+    -2
+   ],
+   "note": "This tile is part of the Civil-liberties centre region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 6,
+   "c": 5,
+   "region": "3,2",
+   "econ": [
+    0,
+    2
+   ],
+   "social": [
+    -4,
+    -2
+   ],
+   "note": "This tile is part of the Civil-liberties centre region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 6,
+   "c": 6,
+   "region": "3,3",
+   "econ": [
+    2,
+    4
+   ],
+   "social": [
+    -4,
+    -2
+   ],
+   "note": "This tile is part of the Classical-liberal right region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 6,
+   "c": 7,
+   "region": "3,3",
+   "econ": [
+    4,
+    6
+   ],
+   "social": [
+    -4,
+    -2
+   ],
+   "note": "This tile is part of the Classical-liberal right region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 6,
+   "c": 8,
+   "region": "3,4",
+   "econ": [
+    6,
+    8
+   ],
+   "social": [
+    -4,
+    -2
+   ],
+   "note": "This tile is part of the Market libertarian right region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 6,
+   "c": 9,
+   "region": "3,4",
+   "econ": [
+    8,
+    10
+   ],
+   "social": [
+    -4,
+    -2
+   ],
+   "note": "This tile is part of the Market libertarian right region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 7,
+   "c": 0,
+   "region": "3,0",
+   "econ": [
+    -10,
+    -8
+   ],
+   "social": [
+    -6,
+    -4
+   ],
+   "note": "This tile is part of the Cooperative libertarian left region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 7,
+   "c": 1,
+   "region": "3,0",
+   "econ": [
+    -8,
+    -6
+   ],
+   "social": [
+    -6,
+    -4
+   ],
+   "note": "This tile is part of the Cooperative libertarian left region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 7,
+   "c": 2,
+   "region": "3,1",
+   "econ": [
+    -6,
+    -4
+   ],
+   "social": [
+    -6,
+    -4
+   ],
+   "note": "This tile is part of the Progressive reform left region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 7,
+   "c": 3,
+   "region": "3,1",
+   "econ": [
+    -4,
+    -2
+   ],
+   "social": [
+    -6,
+    -4
+   ],
+   "note": "This tile is part of the Progressive reform left region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 7,
+   "c": 4,
+   "region": "3,2",
+   "econ": [
+    -2,
+    0
+   ],
+   "social": [
+    -6,
+    -4
+   ],
+   "note": "This tile is part of the Civil-liberties centre region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 7,
+   "c": 5,
+   "region": "3,2",
+   "econ": [
+    0,
+    2
+   ],
+   "social": [
+    -6,
+    -4
+   ],
+   "note": "This tile is part of the Civil-liberties centre region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 7,
+   "c": 6,
+   "region": "3,3",
+   "econ": [
+    2,
+    4
+   ],
+   "social": [
+    -6,
+    -4
+   ],
+   "note": "This tile is part of the Classical-liberal right region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 7,
+   "c": 7,
+   "region": "3,3",
+   "econ": [
+    4,
+    6
+   ],
+   "social": [
+    -6,
+    -4
+   ],
+   "note": "This tile is part of the Classical-liberal right region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 7,
+   "c": 8,
+   "region": "3,4",
+   "econ": [
+    6,
+    8
+   ],
+   "social": [
+    -6,
+    -4
+   ],
+   "note": "This tile is part of the Market libertarian right region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 7,
+   "c": 9,
+   "region": "3,4",
+   "econ": [
+    8,
+    10
+   ],
+   "social": [
+    -6,
+    -4
+   ],
+   "note": "This tile is part of the Market libertarian right region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 8,
+   "c": 0,
+   "region": "4,0",
+   "econ": [
+    -10,
+    -8
+   ],
+   "social": [
+    -8,
+    -6
+   ],
+   "note": "This tile is part of the Anarcho-collectivist left region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 8,
+   "c": 1,
+   "region": "4,0",
+   "econ": [
+    -8,
+    -6
+   ],
+   "social": [
+    -8,
+    -6
+   ],
+   "note": "This tile is part of the Anarcho-collectivist left region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 8,
+   "c": 2,
+   "region": "4,1",
+   "econ": [
+    -6,
+    -4
+   ],
+   "social": [
+    -8,
+    -6
+   ],
+   "note": "This tile is part of the Voluntary-cooperation left region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 8,
+   "c": 3,
+   "region": "4,1",
+   "econ": [
+    -4,
+    -2
+   ],
+   "social": [
+    -8,
+    -6
+   ],
+   "note": "This tile is part of the Voluntary-cooperation left region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 8,
+   "c": 4,
+   "region": "4,2",
+   "econ": [
+    -2,
+    0
+   ],
+   "social": [
+    -8,
+    -6
+   ],
+   "note": "This tile is part of the Minimal-state centre region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 8,
+   "c": 5,
+   "region": "4,2",
+   "econ": [
+    0,
+    2
+   ],
+   "social": [
+    -8,
+    -6
+   ],
+   "note": "This tile is part of the Minimal-state centre region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 8,
+   "c": 6,
+   "region": "4,3",
+   "econ": [
+    2,
+    4
+   ],
+   "social": [
+    -8,
+    -6
+   ],
+   "note": "This tile is part of the Voluntary-market centre-right region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 8,
+   "c": 7,
+   "region": "4,3",
+   "econ": [
+    4,
+    6
+   ],
+   "social": [
+    -8,
+    -6
+   ],
+   "note": "This tile is part of the Voluntary-market centre-right region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 8,
+   "c": 8,
+   "region": "4,4",
+   "econ": [
+    6,
+    8
+   ],
+   "social": [
+    -8,
+    -6
+   ],
+   "note": "This tile is part of the Anarcho-market right region: the left half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 8,
+   "c": 9,
+   "region": "4,4",
+   "econ": [
+    8,
+    10
+   ],
+   "social": [
+    -8,
+    -6
+   ],
+   "note": "This tile is part of the Anarcho-market right region: the right half of it on economics and the upper, more authoritarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 9,
+   "c": 0,
+   "region": "4,0",
+   "econ": [
+    -10,
+    -8
+   ],
+   "social": [
+    -10,
+    -8
+   ],
+   "note": "This tile is part of the Anarcho-collectivist left region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 9,
+   "c": 1,
+   "region": "4,0",
+   "econ": [
+    -8,
+    -6
+   ],
+   "social": [
+    -10,
+    -8
+   ],
+   "note": "This tile is part of the Anarcho-collectivist left region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 9,
+   "c": 2,
+   "region": "4,1",
+   "econ": [
+    -6,
+    -4
+   ],
+   "social": [
+    -10,
+    -8
+   ],
+   "note": "This tile is part of the Voluntary-cooperation left region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 9,
+   "c": 3,
+   "region": "4,1",
+   "econ": [
+    -4,
+    -2
+   ],
+   "social": [
+    -10,
+    -8
+   ],
+   "note": "This tile is part of the Voluntary-cooperation left region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 9,
+   "c": 4,
+   "region": "4,2",
+   "econ": [
+    -2,
+    0
+   ],
+   "social": [
+    -10,
+    -8
+   ],
+   "note": "This tile is part of the Minimal-state centre region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 9,
+   "c": 5,
+   "region": "4,2",
+   "econ": [
+    0,
+    2
+   ],
+   "social": [
+    -10,
+    -8
+   ],
+   "note": "This tile is part of the Minimal-state centre region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 9,
+   "c": 6,
+   "region": "4,3",
+   "econ": [
+    2,
+    4
+   ],
+   "social": [
+    -10,
+    -8
+   ],
+   "note": "This tile is part of the Voluntary-market centre-right region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 9,
+   "c": 7,
+   "region": "4,3",
+   "econ": [
+    4,
+    6
+   ],
+   "social": [
+    -10,
+    -8
+   ],
+   "note": "This tile is part of the Voluntary-market centre-right region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 9,
+   "c": 8,
+   "region": "4,4",
+   "econ": [
+    6,
+    8
+   ],
+   "social": [
+    -10,
+    -8
+   ],
+   "note": "This tile is part of the Anarcho-market right region: the left half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  },
+  {
+   "r": 9,
+   "c": 9,
+   "region": "4,4",
+   "econ": [
+    8,
+    10
+   ],
+   "social": [
+    -10,
+    -8
+   ],
+   "note": "This tile is part of the Anarcho-market right region: the right half of it on economics and the lower, more libertarian half on social questions. Neighbouring tiles blend into the next region."
+  }
+ ]
+}

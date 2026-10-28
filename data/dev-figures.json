@@ -1,0 +1,1746 @@
+[
+ {
+  "id": "dev-quill",
+  "name": "Senator Mara Quill",
+  "aliases": [
+   "Mara Quill",
+   "Senator Quill"
+  ],
+  "type": "politician",
+  "blurb": "Fictional legislator used to demo the map.",
+  "wikipedia": null,
+  "wikidata": null,
+  "universe": "",
+  "eras": [
+   {
+    "label": "2010s",
+    "answers": {
+     "e1": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e2": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e3": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e4": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e5": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e6": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e7": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e8": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e9": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e10": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e11": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e12": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s1": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s2": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s3": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s4": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s5": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s6": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s7": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s8": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s9": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s10": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s11": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s12": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     }
+    }
+   },
+   {
+    "label": "2020s",
+    "answers": {
+     "e1": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e2": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e3": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e4": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e5": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e6": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e7": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e8": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e9": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e10": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e11": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e12": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s1": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s2": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s3": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s4": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s5": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s6": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s7": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s8": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s9": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s10": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s11": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s12": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     }
+    }
+   }
+  ]
+ },
+ {
+  "id": "dev-brandt",
+  "name": "Elias Brandt",
+  "aliases": [
+   "Brandt"
+  ],
+  "type": "historical",
+  "blurb": "Invented 1800s reformer.",
+  "wikipedia": null,
+  "wikidata": null,
+  "universe": "",
+  "eras": [
+   {
+    "label": "1840s",
+    "answers": {
+     "e1": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e2": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e3": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e4": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e5": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e6": {
+      "s": null
+     },
+     "e7": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e8": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e9": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e10": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e11": {
+      "s": null
+     },
+     "e12": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s1": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s2": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s3": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s4": {
+      "s": null
+     },
+     "s5": {
+      "s": null
+     },
+     "s6": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s7": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s8": {
+      "s": null
+     },
+     "s9": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s10": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s11": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s12": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     }
+    }
+   },
+   {
+    "label": "1870s",
+    "answers": {
+     "e1": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e2": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e3": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e4": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e5": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e6": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e7": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e8": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e9": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e10": {
+      "s": null
+     },
+     "e11": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e12": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s1": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s2": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s3": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s4": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s5": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s6": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s7": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s8": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s9": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s10": {
+      "s": null
+     },
+     "s11": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s12": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     }
+    }
+   }
+  ]
+ },
+ {
+  "id": "dev-vale",
+  "name": "Juno Vale",
+  "aliases": [
+   "Vale"
+  ],
+  "type": "public",
+  "blurb": "Invented pop star with a few public stances.",
+  "wikipedia": null,
+  "wikidata": null,
+  "universe": "",
+  "eras": [
+   {
+    "label": "2020s",
+    "answers": {
+     "e1": {
+      "s": null
+     },
+     "e2": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e3": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e4": {
+      "s": null
+     },
+     "e5": {
+      "s": null
+     },
+     "e6": {
+      "s": null
+     },
+     "e7": {
+      "s": null
+     },
+     "e8": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e9": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e10": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e11": {
+      "s": null
+     },
+     "e12": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s1": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s2": {
+      "s": null
+     },
+     "s3": {
+      "s": null
+     },
+     "s4": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s5": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s6": {
+      "s": null
+     },
+     "s7": {
+      "s": null
+     },
+     "s8": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s9": {
+      "s": null
+     },
+     "s10": {
+      "s": null
+     },
+     "s11": {
+      "s": null
+     },
+     "s12": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     }
+    }
+   }
+  ]
+ },
+ {
+  "id": "dev-thorne",
+  "name": "Captain Oriel Thorne",
+  "aliases": [
+   "Oriel Thorne",
+   "Thorne"
+  ],
+  "type": "fictional",
+  "blurb": "Invented sci-fi game captain.",
+  "wikipedia": null,
+  "wikidata": null,
+  "universe": "Sample Game, original",
+  "eras": [
+   {
+    "label": "Original game",
+    "answers": {
+     "e1": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e2": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e3": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e4": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e5": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e6": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e7": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e8": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e9": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e10": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e11": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e12": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s1": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s2": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s3": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s4": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s5": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s6": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s7": {
+      "s": null
+     },
+     "s8": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s9": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s10": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s11": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s12": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     }
+    }
+   },
+   {
+    "label": "2026 remake",
+    "answers": {
+     "e1": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e2": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e3": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e4": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e5": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e6": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e7": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e8": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e9": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e10": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e11": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e12": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s1": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s2": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s3": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s4": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s5": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s6": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s7": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s8": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s9": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s10": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s11": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s12": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     }
+    }
+   }
+  ],
+  "token": {
+   "color": "#3B82F6",
+   "symbol": "rocket"
+  }
+ },
+ {
+  "id": "dev-isolde",
+  "name": "Queen Isolde of Varn",
+  "aliases": [
+   "Isolde",
+   "Queen Isolde"
+  ],
+  "type": "fictional",
+  "blurb": "Invented fantasy novel monarch.",
+  "wikipedia": null,
+  "wikidata": null,
+  "universe": "Varn novels",
+  "eras": [
+   {
+    "label": "Novels",
+    "answers": {
+     "e1": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e2": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e3": {
+      "s": null
+     },
+     "e4": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e5": {
+      "s": null
+     },
+     "e6": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e7": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e8": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e9": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e10": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e11": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e12": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s1": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s2": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s3": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s4": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s5": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s6": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s7": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s8": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s9": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s10": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s11": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s12": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     }
+    }
+   }
+  ],
+  "token": {
+   "color": "#C026D3",
+   "symbol": "crown"
+  }
+ },
+ {
+  "id": "dev-arlow",
+  "name": "Professor Kenji Arlow",
+  "aliases": [
+   "Kenji Arlow",
+   "Arlow"
+  ],
+  "type": "public",
+  "blurb": "Invented economist.",
+  "wikipedia": null,
+  "wikidata": null,
+  "universe": "",
+  "eras": [
+   {
+    "label": "2020s",
+    "answers": {
+     "e1": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e2": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e3": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e4": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e5": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e6": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e7": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e8": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e9": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e10": {
+      "s": 1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e11": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e12": {
+      "s": 2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s1": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s2": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s3": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s4": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s5": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s6": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s7": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s8": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s9": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s10": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s11": {
+      "s": 0,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s12": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     }
+    }
+   }
+  ]
+ },
+ {
+  "id": "dev-rook",
+  "name": "Rook",
+  "aliases": [
+   "Rook"
+  ],
+  "type": "fictional",
+  "blurb": "Invented cyberpunk anti-hero.",
+  "wikipedia": null,
+  "wikidata": null,
+  "universe": "Sample Neon cycle",
+  "eras": [
+   {
+    "label": "Season 1",
+    "answers": {
+     "e1": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e2": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e3": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e4": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e5": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e6": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e7": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e8": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e9": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e10": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e11": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "e12": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s1": {
+      "s": null
+     },
+     "s2": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s3": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s4": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s5": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s6": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s7": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s8": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s9": {
+      "s": null
+     },
+     "s10": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s11": {
+      "s": -1,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     },
+     "s12": {
+      "s": -2,
+      "ev": "Invented sample evidence for a made-up figure; not a real record.",
+      "src": [
+       "https://example.org/sample-source"
+      ]
+     }
+    }
+   }
+  ],
+  "token": {
+   "color": "#10B981",
+   "symbol": "mask"
+  }
+ }
+]
